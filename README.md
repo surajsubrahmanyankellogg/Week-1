@@ -7,5 +7,5 @@
                                                  
 
 # Welcome to ENTR-451
-
+Hello
 This is my code from week 1
